@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pikkilichakri234" alt="pikkilichakri234" /></a> </p>
 
-- 🔭 I’m currently working on **Terraform, Kuberenetes**
+- 🔭 I’m currently working on **Terraform, Kuberenetes,Jenkins,Ansible,Docker,Shell scripting,AWS&AZure&GCP cloud,Promethus&Grafana,Nexus,Jfrog**
 
 - 🌱 I’m currently learning **Generative AI**
 
